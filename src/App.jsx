@@ -67,7 +67,7 @@ const App = () => {
           <div className="header-content">
             <div className="logo-container">
               <div className="logo-icon">🎬</div>
-              <h1 className="logo-text">CINEMATRIX</h1>
+              <h1 className="logo-text">visha matrix</h1>
             </div>
             <p className="tagline">Discover the Universe of Cinema</p>
           </div>
